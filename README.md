@@ -10,6 +10,7 @@ My personal portfolio — built with plain HTML, CSS and JavaScript.
 
 ## 📁 Structure
 
+```text
 portifolio_bonkers/
 ├── index.html
 ├── .gitignore
@@ -19,7 +20,8 @@ portifolio_bonkers/
 ├── css/
 │   └── style.css
 └── js/
-    └── script.js      
+    └── script.js
+```    
 
 ## 🔗 Link
 
