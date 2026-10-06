@@ -25,7 +25,7 @@ portifolio_bonkers/
 
 ## 🔗 Link
 
-https://ladybonkers.github.io/website_ladybonkers/
+[My website!](https://ladybonkers.github.io/website_ladybonkers/)
 
 ---
 
