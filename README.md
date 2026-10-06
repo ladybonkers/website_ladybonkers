@@ -2,7 +2,7 @@
 
 My personal portfolio — built with plain HTML, CSS and JavaScript.
 
-![Last Commit](https://github.com/ladybonkers/website_ladybonkerst?style=for-the-badge&color=8A2BE2)
+![Last Commit](https://img.shields.io/github.com/ladybonkers/website_ladybonkerst?style=for-the-badge&color=8A2BE2)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 
 ## 🌊 Stack
