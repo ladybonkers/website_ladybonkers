@@ -12,20 +12,18 @@ My personal portfolio — built with plain HTML, CSS and JavaScript.
 
 portifolio_bonkers/
 ├── index.html
-├── .gitignore                 
-├── README.md                  
-│
-├── images/                   
+├── .gitignore
+├── README.md
+├── images/
 │   └── bonkers.png
-│
-├── css/                      
-│   ├── style.css
-│
-└── js/                     
-      ├── script.jss
+├── css/
+│   └── style.css
+└── js/
+    └── script.js      
 
 ## 🔗 Link
 
+https://ladybonkers.github.io/website_ladybonkers/
 
 ---
 
