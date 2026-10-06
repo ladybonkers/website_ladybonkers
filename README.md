@@ -2,8 +2,11 @@
 
 My personal portfolio — built with plain HTML, CSS and JavaScript.
 
-![Last Commit](https://img.shields.io/github.com/ladybonkers/website_ladybonkerst?style=for-the-badge&color=8A2BE2)
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+## 📊 GitHub Stats
+
+![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladybonkers&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e14&title_color=4a7ba7&icon_color=4a7ba7&text_color=c5ccd4)
+
+![Júlia's Streak](https://streak-stats.demolab.com/?user=ladybonkers&theme=dark&hide_border=true&background=0a0e14&ring=4a7ba7&fire=ffb3c6&currStreakLabel=4a7ba7&sideLabels=c5ccd4&dates=c5ccd4)
 
 ## 🌊 Stack
 
